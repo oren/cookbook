@@ -1,6 +1,6 @@
-# 🥣 Winter Squash Soup Recipe Notes
+# 🥣 Winter Squash Soup
 
-## 📋 Ingredients List
+## 📋 Ingredients
 
 * 1 large **Butternut Squash** (or Kabocha, see notes below)
 * 4 cups Vegetable or Chicken Broth
